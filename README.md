@@ -1,4 +1,4 @@
-# Bank Personal Loan Modelling
+# Exploratory Data Analysis (EDA) dan Modeliing Dataset Bank Personal Loan
 Project by Muhammad Farras Rizki
 
 
