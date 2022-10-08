@@ -1,24 +1,25 @@
 # Bank Personal Loan Modelling
 Project by Muhammad Farras Rizki
 
-## Latar Belakang
+
+## A. Latar Belakang
 Dataframe ini milik sebuah bank bernama Thera Bank. Manajemen Thera Bank ingin membuat para nasabah untuk menggunakan jasa pinjaman pribadi dari bank (dengan tetap mempertahankan mereka sebagai deposan). Tahun lalu telah didakan sebuah kampanye yang membuat para nasabah (deposan) Thera Bank menggunakan jasa pinjaman pribadi, dengan tingkat keberhasilan 9%. Hal ini mendorong departemen pemasaran ritel untuk merancang kampanye dengan target pemasaran yang lebih baik untuk meningkatkan rasio keberhasilan dengan anggaran yang minimal.
 
 
-## Tentang Dataframe
+## B. Tentang Dataframe
 Dataframe `bank` berisi data 5000 nasabah. Data tersebut meliputi informasi demografis nasabah (umur, pendapatan, dll), hubungan nasabah dengan bank (hipotek, rekening, surat berharga, dll), dan respon nasabah terhadap kampanye pinjaman pribadi sebelumnya (`Personal Loan`). Di antara 5000 nasabah ini, hanya 480 (= 9,6%) yang menggunakan jasa pinjaman pribadi yang ditawarkan kepada mereka pada kampanye sebelumnya.
 
 
-## Tujuan Proyek
+## C. Tujuan Proyek
 - Menemukan insight dari Dataframe `bank` untuk diubah menjadi ide bisnis
 - Membuat pemodelan untuk memprediksi minat nasabah dalam menggunakan jasa pinjaman pribadi
 
 
-## Sumber Dataset
+## D. Sumber Dataset
 Sumber: https://www.kaggle.com/datasets/krantiswalke/bank-personal-loan-modelling
 
 
-## Deskripsi singkat akan pemodelan yang digunakan
+## E. Deskripsi singkat akan pemodelan yang digunakan
 Tujuan dari pemodelan adalah ingin membuat model yang mampu memprediksi minat seorang nasabah dalam menggunakan jasa pinjaman pribadi. Target Variabel yang akan digunakan adalah `Personal Loan` (respon nasabah terhadap kampanye pinjaman pribadi sebelumnya). Variabel yang paling diinginkan untuk optimal adalah Precision (dengan Recall kecil), karena ingin meminimalisir kesalahan prediksi pada nasabah yang sebenarnya ingin menggunakan jasa pinjaman.
 
 Prediksi / Hipotesis yang dibuat berdasarkan target variabel :
@@ -34,6 +35,6 @@ Model Machine Learning yang akan diuji antara lain:
 4. Random Forest Classification
 
 
-## Deskripsi singkat tiap file
+## F. Deskripsi singkat tiap file
 1. 
  
