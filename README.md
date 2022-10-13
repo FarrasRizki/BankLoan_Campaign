@@ -38,4 +38,4 @@ Model Machine Learning yang akan diuji antara lain:
 ## F. Deskripsi singkat tiap file
 1. Bank Loan Modelling Project_Muhammad Farras Rizki.ipynb : File python mengenai syntax dan proses dalam melakukan Exploratory Data Analysis (EDA) dan Modelling Dataset Bank Personal Loan
 2. Bank_Personal_Loan_Modelling.csv : File CSV yang berisi Dataset Bank Personal Loan
- 
+3. Bank Loan_ Column Description.txt : File Note berisi keterangan tiap kolom
