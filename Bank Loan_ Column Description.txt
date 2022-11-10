@@ -17,3 +17,25 @@
 12.CD Account : Does the customer have a certificate of deposit (CD) account with the bank?
 13.Online : Does the customer use internet banking facilities?
 14.Credit card : Does the customer use a credit card issued by
+
+
+
+**Deskripsi Kolom**
+
+- ID : ID Nasabah
+- Age : Usia pelanggan (Pada ulang tahun terakhir)
+- Experience : pengalaman profesional (Tahun)
+- Income : Pendapatan tahunan pelanggan (\\$000)
+- ZIP Code : Kode Pos Alamat Rumah
+- Family : Jumlah keluarga Nasabah
+- CCAvg : Rata-rata pengeluaran untuk kartu kredit per bulan (\\$000)
+- Pendidikan : Jenjang Pendidikan
+        1: Undergrad (Setara S1);
+        2: Graduate (Setara S2);
+        3: Advanced/Professional (Setara S3)
+- Mortgage : Nilai KPR rumah jika ada. (\\$000)
+- Personal Loan : Apakah nasabah ini menerima pinjaman pribadi yang ditawarkan dalam kampanye terakhir?
+- Securities Account : Apakah nasabah memiliki Rekening Sekuritas di bank?
+- CD Account : Apakah nasabah memiliki rekening certificate of deposit (CD) di bank?
+- Online : Apakah nasabah menggunakan fasilitas internet banking?
+- Kartu kredit : Apakah nasabah menggunakan kartu kredit?
