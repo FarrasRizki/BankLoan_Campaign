@@ -1,6 +1,6 @@
 # Bank Personal Loan Campaign
 Project by Muhammad Farras Rizki
-
+Project Report : https://drive.google.com/file/d/1kI_vF9fP_hcUznrCrRnyKovVuFoY8bxr/view?usp=sharing
 
 ## A. Business Understanding
 Bank loan campaigns have a very low success ratio (9%). The Marketing Team is required to increase the success ratio of the next campaign with a minimum budget
